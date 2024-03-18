@@ -1,0 +1,11 @@
+Dataset test_dataset {
+  label: 'Test Dataset'
+  description: ''
+  data_source_name: 'test_db'
+  models: [
+    public_users
+  ]
+  relationships: [
+  ]
+  owner: 'test_external@holistics.io'
+}
